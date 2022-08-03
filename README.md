@@ -1,4 +1,4 @@
-# introduction
+# Tezos smart contract
 
 This is the final project for the LogRocket article on building smart contracts on the tezos smart contract. You can clone this project to try different experiements and read the codebase. To clone this project, run `git clone https://github.com/TheGhoulRe/tezos-smart-contract.git` in the terminal.
 
